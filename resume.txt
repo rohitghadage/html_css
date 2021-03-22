@@ -1,0 +1,40 @@
+<html>
+
+<head>
+<title>RESUME</title>
+</head>
+
+<body
+style="background-color: cornflowerblue;">
+<h1 align="center" style="color: rgb(216, 17, 17);">Resume</h1>
+ <p><b>Name:</b>Rohit Vinayak Ghadage</br></br>
+               <b>Adress:</b>"Powai Naka Satara-415312"</br></br>
+               <b>Phone No.:</b>9657534908</br></br> 
+            </p>
+			<h3 align="center" style="color:violet">EDUCATION</h3>
+			
+            <table border="2" width="40%" style="background-color: cyan;">
+            <tr><td>STD</td><td>VENUE</td><td>School/College</td><td>PERCENTAGE</td>  
+            <tr><td>10<sup>th</sup></td><td>pachavad</td><td>Jay Bhavani Vidyalay Pachavad</td><td>92</td> 
+            <tr><td>12<sup>th</sup></td><td>Satara</td><td>Y.C.College Satara<td>80</td> 
+            <tr><td>1<sup>st</sup>year</td><td>Ashta,sangli</td><td>ADCET<td>83</td>
+            <tr><td>2<sup>nd</sup>year</td><td>Ashta,sangli</td><td>ADCET<td>78</td> 
+            </table>
+			<h2 align="center" style="color:violet">OBJECTIVE</h2>
+			I have completed the B.tech from the annasaheb dange college of Engineering and technology Ashta.<br>
+			I am more confident in programming.I have also done the interinship in one of the reputed company.<br>I am more currently looking for the new job profile
+			<p>
+			
+			</p>
+			
+            <p><b>Hobbies:</b></br>
+            1.Rading the books and newspaper.</br>
+            2.Swimming.</br>
+            3.Playing the games.</br>
+            4.Playing the outdoor games like football.cricket.</br>
+            </p>
+
+
+</body>
+
+</html>
